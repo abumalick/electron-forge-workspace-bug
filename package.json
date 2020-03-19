@@ -2,10 +2,10 @@
   "private": true,
   "workspaces": {
     "packages": [
-      "electron-app"
+      "my-new-app"
     ]
   },
   "scripts": {
-    "app": "yarn workspace electron-app"
+    "app": "yarn workspace my-new-app"
   }
 }
